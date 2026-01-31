@@ -13,7 +13,7 @@ Abrir el archivo `index.html` en el navegador o usar Live Server si está dispon
 
 ## Evaluación formativa
 El historial de commits muestra el progreso paso a paso y permite evaluar
-cómo se construyó el proyecto, no solo el resultado final.
+cómo se hizo el proyecto, no solo el resultado final.
 
 ## Cómo evaluar con commits
 Revisar que cada commit tenga un propósito claro y mensajes entendibles.
